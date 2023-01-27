@@ -4,10 +4,13 @@ Hi 👋 My name is Burak
 Backend Developer
 -----------------
 
-I've been learning to code for 2 years, after swtiching careers. I'm interested in backend development. I have backend development experience with Django and Go.
+I've been coding for 2 years, after swtiching careers. I'm interested in backend development.web scraping I have backend development experience with Django and Go.
 
 * 🌍  I'm based in Istanbul
-* ✉️  You can contact me at [atlasatakburak75@gmail.com](mailto:atlasatakburak75@gmail.com)
+* ✉️  You can contact me at;
+- [atlasatakburak75@gmail.com](mailto:atlasatakburak75@gmail.com)
+- [Fiverr](https://www.fiverr.com/buosge)
+- [Upwork](https://www.upwork.com/freelancers/~01fa36c7c99f7eee95)
 * 🧠  I'm learning Django-Go
 
 ### Skills
